@@ -2,7 +2,7 @@
 
 **Desarrollador Backend · Integración IA · .NET / C# / SQL Server**
 
-📍 La Pintana, Santiago, Chile &nbsp;|&nbsp; 📧 nestor.carvacho@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-nestor--carvacho--dotte-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-carvacho-dotte)
+📍 La Pintana, Santiago, Chile · 📧 nestor.carvacho@gmail.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-nestor--carvacho--dotte-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-carvacho-dotte)
 
 ---
 
